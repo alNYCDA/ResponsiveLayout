@@ -4,6 +4,16 @@ body{
 	margin:0px;
 }
 
+#socialMediaIcon{
+	position:fixed;
+	bottom:0px;
+	right:0px;
+	width:75px;
+}
+#socialMediaIcon img{
+	width:100%;
+}
+
 #banner{
 	width:100%;
 	min-width:480px;
